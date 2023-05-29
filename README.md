@@ -4,7 +4,6 @@
   <meta charset="UTF-8">
 </head>
 <body>
-  <h1>Hi!</h1>
   <p>My name is Pusat, Marketing/Coder. Are you currently DevTimers and it's a CEO specializing in Marketing/Bot Software.</p>
   
   <h2>Our Projects</h2>
