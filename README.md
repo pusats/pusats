@@ -26,6 +26,10 @@
   <ul>
     <img src="https://img.shields.io/badge/Golang-%230077B5.svg?&style=for-the-badge&logo=go&logoColor=white" /> &nbsp;&nbsp;</li>
   </ul>
+
+  <h2></h2>
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="useragents' Github Stats" src="https://github-readme-stats.vercel.app/api?username=useragents&show_icons=true&count_private=true&theme=highcontrast" height="192px"/>
+    </a>
   
   <h2>My Contact Information</h2>
   <p>If you have any questions about me, you can contact me in the following ways:</p>
