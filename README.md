@@ -28,7 +28,7 @@
   </ul>
 
   <h2></h2>
-      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="useragents' Github Stats" src="https://github-readme-stats.vercel.app/api?username=useragents&show_icons=true&count_private=true&theme=highcontrast" height="192px"/>
+      <a href="https://github.com/pusats/github-readme-stats"><img alt="pusats' Github Stats" src="https://github-readme-stats.vercel.app/api?username=useragents&show_icons=true&count_private=true&theme=highcontrast" height="192px"/>
     </a>
   
   <h2>My Contact Information</h2>
