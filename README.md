@@ -24,7 +24,7 @@
   </ul>
   <p>What I'm learning right now:</p>
   <ul>
-    <li><img src="https://img.shields.io/badge/Golang-%230077B5.svg?&style=for-the-badge&logo=go&logoColor=white" /> &nbsp;&nbsp;</li>
+    <img src="https://img.shields.io/badge/Golang-%230077B5.svg?&style=for-the-badge&logo=go&logoColor=white" /> &nbsp;&nbsp;</li>
   </ul>
   
   <h2>My Contact Information</h2>
