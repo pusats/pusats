@@ -8,10 +8,10 @@
   
   <h2>Our Projects</h2>
   <ul>
-    <li><a href="https://nowboosts.com">NowBoosts</a>: Discord Services.</li>
-    <li><a href="link">S*****</a>: Proxy Services.</li>
-    <li><a href="Link">D*****</a>: Secret Services.</li>
-    <li><a href="link">U*****</a>: Secret Services.</li>
+    <li><a href="https://nowboosts.com">NowBoosts</a>: Social Media Services Site.</li>
+    <li><a href="https://dcservis.com">DCServis</a>: Discord SMM Site.</li>
+    <li><a href="https://uygunsms.com">UygunSMS</a>: SMS Confirmation Site.</li>
+    <li><a href="https://anlatsa.com">anlatsa</a>: News and Blog Site.</li>
   </ul>
   
   <h2>Skills</h2>
