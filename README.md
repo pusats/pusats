@@ -22,6 +22,10 @@
     <li>Languages: Arabic [A1.5], English [B2], Turkish [C2]...</li>
     <li>Physical Activities: Basketball [Advanced], Ping Pong [Advanced], Football [Basic]...</li>
   </ul>
+  <p>What I'm learning right now:</p>
+  <ul>
+    <li>GO</li>
+  </ul>
   
   <h2>My Contact Information</h2>
   <p>If you have any questions about me, you can contact me in the following ways:</p>
