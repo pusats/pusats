@@ -6,7 +6,7 @@
 <body>
   <p>My name is Pusat, Marketing/Coder. Are you currently DevTimers and it's a CEO specializing in Marketing/Bot Software.</p>
   
-  <h2>Our Projects</h2>
+  <h2>Projects</h2>
   <ul>
     <li><a href="https://nowboosts.com">NowBoosts</a>: Social Media Services Site.</li>
     <li><a href="https://dcservis.com">DCServis</a>: Discord SMM Site.</li>
@@ -27,11 +27,11 @@
     <img src="https://img.shields.io/badge/Golang-%230077B5.svg?&style=for-the-badge&logo=go&logoColor=white" /> &nbsp;&nbsp;</li>
   </ul>
 
-  <h2></h2>
+  <h2>GitHub Account</h2>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=pusats&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="pusats's Github Stats">
     </a>
   
-  <h2>My Contact Information</h2>
+  <h2>Contact</h2>
   <p>If you have any questions about me, you can contact me in the following ways:</p>
   <ul>
     <li>Telegram: <a href="https://t.me/pusats">@pusats</a></li>
