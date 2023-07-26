@@ -29,7 +29,7 @@
 
   <h2>GitHub Account</h2>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=pusats&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="pusats's Github Stats">
-    </a>
+    [![pusats](https://moe-counter.glitch.me/get/@pusats?theme=rule34)]()
   
   <h2>Contact</h2>
   <p>If you have any questions about me, you can contact me in the following ways:</p>
