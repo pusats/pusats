@@ -35,7 +35,7 @@
   <p>If you have any questions about me, you can contact me in the following ways:</p>
   <ul>
     <li>Telegram: <a href="https://t.me/pusats">@pusats</a></li>
-    <li>Discord: <a href="https://discord.com/users/254061839401484289">Pusat#2669</a></li>
+    <li>Discord: <a href="https://discord.com/users/254061839401484289">@fuckpusat</a></li>
   </ul>
 </body>
 </html>
