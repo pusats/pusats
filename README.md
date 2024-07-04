@@ -13,9 +13,6 @@
   </ul>
   <p>Visitors:</p>
           <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpusats%2Fpusats"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpusats%2Fpusats&label=Visitors&countColor=%23d9e3f0" /></a>
-  <ul>
-    <img src="https://img.shields.io/badge/Golang-%230077B5.svg?&style=for-the-badge&logo=go&logoColor=white" /> &nbsp;&nbsp;</li>
-  </ul>
 
   <h2>GitHub Account</h2>
         <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpusats%2Fpusats"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpusats%2Fpusats&label=Visitors&countColor=%23d9e3f0" /></a>
